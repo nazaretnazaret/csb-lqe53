@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://nazaretnazaret.github.io/csb-lqe53/static/js/main.8a9401a7.chunk.js",
+    "main.js.map": "https://nazaretnazaret.github.io/csb-lqe53/static/js/main.8a9401a7.chunk.js.map",
+    "runtime-main.js": "https://nazaretnazaret.github.io/csb-lqe53/static/js/runtime-main.fbaea71c.js",
+    "runtime-main.js.map": "https://nazaretnazaret.github.io/csb-lqe53/static/js/runtime-main.fbaea71c.js.map",
+    "static/js/2.ee2623fd.chunk.js": "https://nazaretnazaret.github.io/csb-lqe53/static/js/2.ee2623fd.chunk.js",
+    "static/js/2.ee2623fd.chunk.js.map": "https://nazaretnazaret.github.io/csb-lqe53/static/js/2.ee2623fd.chunk.js.map",
+    "index.html": "https://nazaretnazaret.github.io/csb-lqe53/index.html",
+    "static/js/2.ee2623fd.chunk.js.LICENSE.txt": "https://nazaretnazaret.github.io/csb-lqe53/static/js/2.ee2623fd.chunk.js.LICENSE.txt",
+    "static/media/logo.336f7ba3.svg": "https://nazaretnazaret.github.io/csb-lqe53/static/media/logo.336f7ba3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbaea71c.js",
+    "static/js/2.ee2623fd.chunk.js",
+    "static/js/main.8a9401a7.chunk.js"
+  ]
+}
